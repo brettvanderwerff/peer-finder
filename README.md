@@ -2,8 +2,8 @@
 
 Tool for getting a list of peers for bittorrent, built for Ubuntu 18.04 with Python 3.
 
-Warning: A work in progress hobby project to learn low level network tools and multi-threading. 
-Project is very incomplete and may be insecure use at your own risk.
+A work in progress hobby project to learn low level network tools and multi-threading. 
+
 
 ## Installation
 
